@@ -1,0 +1,41 @@
+_repo: Norse-Tales-and-Sketches_14593
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Cassie, R. L. (Robert Lawson)
+    alias: Cassie, Robert Lawson
+    birthdate: 1859
+    gutenberg_agent_id: '39448'
+    url: http://www.gutenberg.org/2009/agents/39448
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kielland, Alexander Lange
+    aliases:
+    - Kielland, Aleksander L.
+    - Kjelland, Alexander Lange
+    birthdate: 1849
+    deathdate: 1906
+    gutenberg_agent_id: '1776'
+    url: http://www.gutenberg.org/2009/agents/1776
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Kielland
+description: ''
+gutenberg_issued: '2005-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Short stories'
+- !lcsh 'Norwegian fiction'
+tableOfContents: A siesta -- A monkey -- A tale of the sea -- A dinner -- Trofast
+  -- Karen -- My sister's journey to Modum -- Letters from Master-Pilot Seehus --
+  Old dances -- Autumn.
+title: Norse Tales and Sketches
+url: http://www.gutenberg.org/ebooks/14593
